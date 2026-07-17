@@ -12,15 +12,15 @@
     "status": "online"
   },
   {
-    "id": "1439409063795621938",
-    "name": "Jonas",
-    "avatar": "https://cdn.discordapp.com/avatars/1439409063795621938/c5d2e077757b756cc67a423dfa8da978.png?size=64",
-    "status": "offline"
-  },
-  {
     "id": "1477911035397673051",
     "name": "Ente👑",
     "avatar": "https://cdn.discordapp.com/avatars/1477911035397673051/12eb4b338ab241cf52b7f3be47cafb61.png?size=64",
+    "status": "online"
+  },
+  {
+    "id": "1439409063795621938",
+    "name": "Jonas",
+    "avatar": "https://cdn.discordapp.com/avatars/1439409063795621938/c5d2e077757b756cc67a423dfa8da978.png?size=64",
     "status": "offline"
   }
 ]
