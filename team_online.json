@@ -1,5 +1,11 @@
 [
   {
+    "id": "1288520481720373259",
+    "name": "Philip 🦅",
+    "avatar": "https://cdn.discordapp.com/avatars/1288520481720373259/3df6216dac60ad5d1fc9a3c787e888ed.png?size=64",
+    "status": "online"
+  },
+  {
     "id": "1439409063795621938",
     "name": "Jonas",
     "avatar": "https://cdn.discordapp.com/avatars/1439409063795621938/c5d2e077757b756cc67a423dfa8da978.png?size=64",
@@ -10,5 +16,11 @@
     "name": "lukas1119992",
     "avatar": "https://cdn.discordapp.com/avatars/1476970367246663681/a_34f8b1ed5f0d799380456106b17be8cc.gif?size=64",
     "status": "online"
+  },
+  {
+    "id": "1477911035397673051",
+    "name": "Ente👑",
+    "avatar": "https://cdn.discordapp.com/avatars/1477911035397673051/12eb4b338ab241cf52b7f3be47cafb61.png?size=64",
+    "status": "offline"
   }
 ]
