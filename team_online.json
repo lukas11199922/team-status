@@ -1,26 +1,53 @@
 [
   {
-    "id": "1288520481720373259",
-    "name": "Philip 🦅",
-    "avatar": "https://cdn.discordapp.com/avatars/1288520481720373259/3df6216dac60ad5d1fc9a3c787e888ed.png?size=64",
-    "status": "online"
-  },
-  {
     "id": "1439409063795621938",
     "name": "Jonas",
     "avatar": "https://cdn.discordapp.com/avatars/1439409063795621938/c5d2e077757b756cc67a423dfa8da978.png?size=64",
-    "status": "online"
+    "status": "online",
+    "role_ids": [
+      "1527004435560272053",
+      "1527321064101642324",
+      "1527004165237113043",
+      "1527117231345893387"
+    ]
   },
   {
     "id": "1476970367246663681",
     "name": "lukas1119992",
     "avatar": "https://cdn.discordapp.com/avatars/1476970367246663681/a_34f8b1ed5f0d799380456106b17be8cc.gif?size=64",
-    "status": "dnd"
+    "status": "dnd",
+    "role_ids": [
+      "1527004176108879946",
+      "1527004152314597548",
+      "1527117231345893387",
+      "1520180731215614093"
+    ]
+  },
+  {
+    "id": "1288520481720373259",
+    "name": "Philip 🦅",
+    "avatar": "https://cdn.discordapp.com/avatars/1288520481720373259/3df6216dac60ad5d1fc9a3c787e888ed.png?size=64",
+    "status": "offline",
+    "role_ids": [
+      "1527004435560272053",
+      "1527321064101642324",
+      "1527004165237113043",
+      "1527117231345893387",
+      "1520180731215614093"
+    ]
   },
   {
     "id": "1477911035397673051",
     "name": "Ente👑",
     "avatar": "https://cdn.discordapp.com/avatars/1477911035397673051/12eb4b338ab241cf52b7f3be47cafb61.png?size=64",
-    "status": "offline"
+    "status": "offline",
+    "role_ids": [
+      "1527004435560272053",
+      "1527321064101642324",
+      "1527004165237113043",
+      "1527117231345893387",
+      "1527317948782477442",
+      "1527320896912494592"
+    ]
   }
 ]
